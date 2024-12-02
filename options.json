@@ -1,0 +1,4 @@
+{
+    "countries": [ "Romania", "Republic of Serbia" ],
+    "regex": "/^(?=.*(\[U\]|\[UAF\]))(?!.*\[SAFAD\]).+$/";
+}
