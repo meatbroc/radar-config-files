@@ -150,7 +150,7 @@
     "El Salvador",
     "Somaliland",
     "Somalia",
-    "Republic of Serbia",
+    "Serbia",
     "Suriname",
     "Slovakia",
     "Slovenia",
