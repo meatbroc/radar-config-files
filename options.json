@@ -1,5 +1,5 @@
 {
     "countries": [ "Romania", "Serbia" ],
-    "regex": "^(?=.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]))(?!.*\\[SAFAD\\]|\\[RoAF\\]).+$",
+    "regex": "^(?=.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU))(?!.*\\[SAFAD\\]|\\[RoAF\\]).+$",
     "_comment": "the regex must not have /'s at the beginning or end"
 }
