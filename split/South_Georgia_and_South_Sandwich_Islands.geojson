@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -37.68716386599988,
+              -53.993747654
+            ],
+            [
+              -36.81338456899988,
+              -54.44500090899989
+            ],
+            [
+              -36.62157141799989,
+              -54.11980559699994
+            ],
+            [
+              -37.68716386599988,
+              -53.993747654
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "ADMIN": "South Georgia and South Sandwich Islands",
+        "ISO_A3": "SGS",
+        "ISO_A2": "GS"
+      }
+    }
+  ]
+}
