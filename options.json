@@ -1,8 +1,9 @@
 {
-    "version": 1.4,
+    "version": 1.45,
     "countries": [ "Romania", "Serbia" ],
     "regex": "^(?=.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU))(?!.*\\[RoAF\\]).+$",
-    "enemies": "^.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU){1,2}.*$",
-    "friendlies": "\\[RoAF\\]",
+    "e": "^.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU){1,2}.*$",
+    "f": "\\[RoAF\\]",
+    "a": [910981],
     "_comment": "the regex must not have /'s at the beginning or end"
 }
