@@ -1,5 +1,5 @@
 {
-    "version": 1.5,
+    "version": 1.6,
     "countries": [ "Romania", "Serbia", "Kosovo", "Bosnia and Herzegovina", "Macedonia", "Albania", "Slovakia" ],
     "regex": "^(?=.*(\\[TBD\\]|\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]))(?!.*\\[RoAF\\]).+$",
     "e": "^.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]){1,2}.*$",
