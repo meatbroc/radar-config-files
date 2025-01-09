@@ -1,8 +1,8 @@
 {
     "version": 1.6,
     "countries": [ "Romania", "Serbia", "Kosovo", "Bosnia and Herzegovina", "Macedonia", "Albania", "Slovakia", "Croatia", "Montenegro" ],
-    "regex": "^(?=.*(\\[TBD\\]|\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]))(?!.*\\[RoAF\\]).+$",
-    "e": "^.*(\\[U\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]){1,2}.*$",
+    "regex": "^(?=.*(\\[TBD\\]|\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]))(?!.*\\[RoAF\\]).+$",
+    "e": "^.*(\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]){1,2}.*$",
     "f": "\\[RoAF\\]",
     "a": [775696, 977996, 912621],
     "_comment": "the regex must not have /'s at the beginning or end. a: v-7, d-2, v-4"
