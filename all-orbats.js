@@ -1,4 +1,4 @@
-export async function fetchAndProcessData(inputLink) {
+export async function fetchOrbats(inputLink) {
     const baseRegex = new RegExp('(\\([A-Z]{4}\\))', 'g');
 
     const fetchMainHTML = async (link) => {
