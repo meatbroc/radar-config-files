@@ -1,6 +1,6 @@
 {
     "version": 1.6,
-    "countries": [ "Romania", "Serbia", "Moldova", "Hungary", "Kosovo", "Bosnia and Herzegovina", "Macedonia", "Albania", "Slovakia", "Croatia", "Montenegro" ],
+    "countries": [ "Romania", "Serbia", "Moldova", "Hungary", "Kosovo", "Bosnia and Herzegovina", "Macedonia", "Albania", "Slovakia", "Croatia", "Montenegro", "Bulgaria" ],
     "regex": "^(?=.*(\\[TBD\\]|\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]))(?!.*\\[RoAF\\]).+$",
     "e": "^.*(\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]){1,2}.*$",
     "f": "\\[RoAF\\]",
