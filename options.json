@@ -4,6 +4,7 @@
     "regex": "^(?=.*(\\[TBD\\]|\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[TBD\\]))(?!.*\\[RoAF\\]).+$",
     "e": "^.*(\\[U\\]|\\[UTP\\]|\\[UAF\\]|\\[IMAF\\]|\\[KU|\\[RDAF|\\[TBD\\]){1,2}.*$",
     "f": "\\[RoAF\\]",
+    "al": "\\[RAF\\]",
     "a": [775696, 977996, 912621],
     "_comment": "the regex must not have /'s at the beginning or end. a: v-7, d-2, v-4"
 }
