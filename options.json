@@ -5,6 +5,6 @@
     "e": "Xi4qKFxbVVxdfFxbVVRQXF18XFtVQUZcXXxcW0lNQUZcXXxcW0tVfFxbUkRBRnxcW1RCRFxdKXsxLDJ9Liok",
     "f": "XFtSb0FGXF0=",
     "al": "XFtSQUZcXQ==",
-    "a": ['Nzc1Njk2', 'OTc3OTk2', 'OTEyNjIx'],
+    "a": ["Nzc1Njk2", "OTc3OTk2", "OTEyNjIx"],
     "_comment": "the regex must not have /'s at the beginning or end. a: v-7, d-2, v-4"
 }
