@@ -102,11 +102,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Hungary",
-        "ISO_A3": "HUN",
-        "ISO_A2": "HU"
-      }
+      "properties": null
     }
   ]
 }

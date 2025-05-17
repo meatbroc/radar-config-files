@@ -26,11 +26,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "South Georgia and South Sandwich Islands",
-        "ISO_A3": "SGS",
-        "ISO_A2": "GS"
-      }
+      "properties": null
     }
   ]
 }

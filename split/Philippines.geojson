@@ -636,11 +636,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Philippines",
-        "ISO_A3": "PHL",
-        "ISO_A2": "PH"
-      }
+      "properties": null
     }
   ]
 }

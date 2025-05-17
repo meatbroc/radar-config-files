@@ -162,11 +162,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Nepal",
-        "ISO_A3": "NPL",
-        "ISO_A2": "NP"
-      }
+      "properties": null
     }
   ]
 }

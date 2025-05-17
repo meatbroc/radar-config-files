@@ -102,11 +102,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Benin",
-        "ISO_A3": "BEN",
-        "ISO_A2": "BJ"
-      }
+      "properties": null
     }
   ]
 }

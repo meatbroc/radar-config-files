@@ -46,11 +46,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Cyprus",
-        "ISO_A3": "CYP",
-        "ISO_A2": "CY"
-      }
+      "properties": null
     }
   ]
 }

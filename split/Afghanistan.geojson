@@ -282,11 +282,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Afghanistan",
-        "ISO_A3": "AFG",
-        "ISO_A2": "AF"
-      }
+      "properties": null
     }
   ]
 }

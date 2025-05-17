@@ -404,11 +404,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "France",
-        "ISO_A3": "FRA",
-        "ISO_A2": "FR"
-      }
+      "properties": null
     }
   ]
 }

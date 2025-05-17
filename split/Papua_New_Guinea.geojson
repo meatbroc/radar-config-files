@@ -408,11 +408,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Papua New Guinea",
-        "ISO_A3": "PNG",
-        "ISO_A2": "PG"
-      }
+      "properties": null
     }
   ]
 }

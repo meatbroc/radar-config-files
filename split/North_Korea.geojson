@@ -150,11 +150,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "North Korea",
-        "ISO_A3": "PRK",
-        "ISO_A2": "KP"
-      }
+      "properties": null
     }
   ]
 }

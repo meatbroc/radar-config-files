@@ -174,11 +174,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Burkina Faso",
-        "ISO_A3": "BFA",
-        "ISO_A2": "BF"
-      }
+      "properties": null
     }
   ]
 }

@@ -64,11 +64,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "East Timor",
-        "ISO_A3": "TLS",
-        "ISO_A2": "TL"
-      }
+      "properties": null
     }
   ]
 }

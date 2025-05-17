@@ -346,11 +346,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Vietnam",
-        "ISO_A3": "VNM",
-        "ISO_A2": "VN"
-      }
+      "properties": null
     }
   ]
 }

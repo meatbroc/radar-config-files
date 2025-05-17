@@ -138,11 +138,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Honduras",
-        "ISO_A3": "HND",
-        "ISO_A2": "HN"
-      }
+      "properties": null
     }
   ]
 }

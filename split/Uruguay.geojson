@@ -118,11 +118,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Uruguay",
-        "ISO_A3": "URY",
-        "ISO_A2": "UY"
-      }
+      "properties": null
     }
   ]
 }

@@ -158,11 +158,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Senegal",
-        "ISO_A3": "SEN",
-        "ISO_A2": "SN"
-      }
+      "properties": null
     }
   ]
 }

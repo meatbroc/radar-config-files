@@ -182,11 +182,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Paraguay",
-        "ISO_A3": "PRY",
-        "ISO_A2": "PY"
-      }
+      "properties": null
     }
   ]
 }

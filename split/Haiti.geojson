@@ -86,11 +86,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Haiti",
-        "ISO_A3": "HTI",
-        "ISO_A2": "HT"
-      }
+      "properties": null
     }
   ]
 }

@@ -66,11 +66,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Lithuania",
-        "ISO_A3": "LTU",
-        "ISO_A2": "LT"
-      }
+      "properties": null
     }
   ]
 }

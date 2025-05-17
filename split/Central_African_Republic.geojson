@@ -270,11 +270,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Central African Republic",
-        "ISO_A3": "CAF",
-        "ISO_A2": "CF"
-      }
+      "properties": null
     }
   ]
 }

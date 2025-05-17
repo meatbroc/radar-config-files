@@ -98,11 +98,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Czech Republic",
-        "ISO_A3": "CZE",
-        "ISO_A2": "CZ"
-      }
+      "properties": null
     }
   ]
 }

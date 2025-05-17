@@ -812,11 +812,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Chile",
-        "ISO_A3": "CHL",
-        "ISO_A2": "CL"
-      }
+      "properties": null
     }
   ]
 }

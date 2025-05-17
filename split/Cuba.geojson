@@ -212,11 +212,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Cuba",
-        "ISO_A3": "CUB",
-        "ISO_A2": "CU"
-      }
+      "properties": null
     }
   ]
 }

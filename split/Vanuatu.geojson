@@ -52,11 +52,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Vanuatu",
-        "ISO_A3": "VUT",
-        "ISO_A2": "VU"
-      }
+      "properties": null
     }
   ]
 }

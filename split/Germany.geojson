@@ -214,11 +214,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Germany",
-        "ISO_A3": "DEU",
-        "ISO_A2": "DE"
-      }
+      "properties": null
     }
   ]
 }

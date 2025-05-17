@@ -86,11 +86,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Sierra Leone",
-        "ISO_A3": "SLE",
-        "ISO_A2": "SL"
-      }
+      "properties": null
     }
   ]
 }

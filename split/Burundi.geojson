@@ -62,11 +62,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Burundi",
-        "ISO_A3": "BDI",
-        "ISO_A2": "BI"
-      }
+      "properties": null
     }
   ]
 }

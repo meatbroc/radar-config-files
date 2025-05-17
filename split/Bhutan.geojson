@@ -66,11 +66,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Bhutan",
-        "ISO_A3": "BTN",
-        "ISO_A2": "BT"
-      }
+      "properties": null
     }
   ]
 }

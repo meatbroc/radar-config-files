@@ -200,11 +200,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Yemen",
-        "ISO_A3": "YEM",
-        "ISO_A2": "YE"
-      }
+      "properties": null
     }
   ]
 }

@@ -150,11 +150,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Cambodia",
-        "ISO_A3": "KHM",
-        "ISO_A2": "KH"
-      }
+      "properties": null
     }
   ]
 }

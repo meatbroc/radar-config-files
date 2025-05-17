@@ -322,11 +322,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Ukraine",
-        "ISO_A3": "UKR",
-        "ISO_A2": "UA"
-      }
+      "properties": null
     }
   ]
 }

@@ -46,11 +46,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "New Caledonia",
-        "ISO_A3": "NCL",
-        "ISO_A2": "NC"
-      }
+      "properties": null
     }
   ]
 }

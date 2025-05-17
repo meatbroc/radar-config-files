@@ -82,11 +82,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Moldova",
-        "ISO_A3": "MDA",
-        "ISO_A2": "MD"
-      }
+      "properties": null
     }
   ]
 }

@@ -34,11 +34,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Trinidad and Tobago",
-        "ISO_A3": "TTO",
-        "ISO_A2": "TT"
-      }
+      "properties": null
     }
   ]
 }

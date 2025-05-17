@@ -414,11 +414,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Venezuela",
-        "ISO_A3": "VEN",
-        "ISO_A2": "VE"
-      }
+      "properties": null
     }
   ]
 }

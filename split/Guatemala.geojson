@@ -86,11 +86,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Guatemala",
-        "ISO_A3": "GTM",
-        "ISO_A2": "GT"
-      }
+      "properties": null
     }
   ]
 }

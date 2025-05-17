@@ -192,11 +192,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Ecuador",
-        "ISO_A3": "ECU",
-        "ISO_A2": "EC"
-      }
+      "properties": null
     }
   ]
 }

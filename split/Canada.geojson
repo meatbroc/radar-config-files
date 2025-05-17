@@ -3600,11 +3600,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Canada",
-        "ISO_A3": "CAN",
-        "ISO_A2": "CA"
-      }
+      "properties": null
     }
   ]
 }

@@ -120,11 +120,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "South Korea",
-        "ISO_A3": "KOR",
-        "ISO_A2": "KR"
-      }
+      "properties": null
     }
   ]
 }

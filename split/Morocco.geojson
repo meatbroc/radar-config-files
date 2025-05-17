@@ -314,11 +314,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Morocco",
-        "ISO_A3": "MAR",
-        "ISO_A2": "MA"
-      }
+      "properties": null
     }
   ]
 }

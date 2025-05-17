@@ -42,11 +42,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Brunei",
-        "ISO_A3": "BRN",
-        "ISO_A2": "BN"
-      }
+      "properties": null
     }
   ]
 }

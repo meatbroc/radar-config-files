@@ -324,11 +324,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Angola",
-        "ISO_A3": "AGO",
-        "ISO_A2": "AO"
-      }
+      "properties": null
     }
   ]
 }

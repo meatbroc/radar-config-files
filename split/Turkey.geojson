@@ -376,11 +376,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Turkey",
-        "ISO_A3": "TUR",
-        "ISO_A2": "TR"
-      }
+      "properties": null
     }
   ]
 }

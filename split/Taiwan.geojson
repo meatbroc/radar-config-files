@@ -62,11 +62,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Taiwan",
-        "ISO_A3": "TWN",
-        "ISO_A2": "TW"
-      }
+      "properties": null
     }
   ]
 }

@@ -238,11 +238,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Madagascar",
-        "ISO_A3": "MDG",
-        "ISO_A2": "MG"
-      }
+      "properties": null
     }
   ]
 }
