@@ -130,11 +130,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Croatia",
-        "ISO_A3": "HRV",
-        "ISO_A2": "HR"
-      }
+      "properties": null
     }
   ]
 }

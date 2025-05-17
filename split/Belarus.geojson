@@ -150,11 +150,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Belarus",
-        "ISO_A3": "BLR",
-        "ISO_A2": "BY"
-      }
+      "properties": null
     }
   ]
 }

@@ -114,11 +114,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Suriname",
-        "ISO_A3": "SUR",
-        "ISO_A2": "SR"
-      }
+      "properties": null
     }
   ]
 }

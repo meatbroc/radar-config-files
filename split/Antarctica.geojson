@@ -5220,11 +5220,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Antarctica",
-        "ISO_A3": "ATA",
-        "ISO_A2": "AQ"
-      }
+      "properties": null
     }
   ]
 }

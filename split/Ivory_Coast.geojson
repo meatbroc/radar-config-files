@@ -166,11 +166,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Ivory Coast",
-        "ISO_A3": "CIV",
-        "ISO_A2": "CI"
-      }
+      "properties": null
     }
   ]
 }

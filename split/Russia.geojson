@@ -3412,11 +3412,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Russia",
-        "ISO_A3": "RUS",
-        "ISO_A2": "RU"
-      }
+      "properties": null
     }
   ]
 }

@@ -522,11 +522,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Democratic Republic of the Congo",
-        "ISO_A3": "COD",
-        "ISO_A2": "CD"
-      }
+      "properties": null
     }
   ]
 }

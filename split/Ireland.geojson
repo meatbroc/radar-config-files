@@ -98,11 +98,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Ireland",
-        "ISO_A3": "IRL",
-        "ISO_A2": "IE"
-      }
+      "properties": null
     }
   ]
 }

@@ -154,11 +154,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Eritrea",
-        "ISO_A3": "ERI",
-        "ISO_A2": "ER"
-      }
+      "properties": null
     }
   ]
 }

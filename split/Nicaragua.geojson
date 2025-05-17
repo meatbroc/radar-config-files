@@ -138,11 +138,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Nicaragua",
-        "ISO_A3": "NIC",
-        "ISO_A2": "NI"
-      }
+      "properties": null
     }
   ]
 }

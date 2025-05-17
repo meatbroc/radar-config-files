@@ -1416,11 +1416,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "China",
-        "ISO_A3": "CHN",
-        "ISO_A2": "CN"
-      }
+      "properties": null
     }
   ]
 }

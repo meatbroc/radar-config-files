@@ -138,11 +138,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Austria",
-        "ISO_A3": "AUT",
-        "ISO_A2": "AT"
-      }
+      "properties": null
     }
   ]
 }

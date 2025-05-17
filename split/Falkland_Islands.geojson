@@ -64,11 +64,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Falkland Islands",
-        "ISO_A3": "FLK",
-        "ISO_A2": "FK"
-      }
+      "properties": null
     }
   ]
 }

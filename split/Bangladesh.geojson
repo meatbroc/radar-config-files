@@ -170,11 +170,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Bangladesh",
-        "ISO_A3": "BGD",
-        "ISO_A2": "BD"
-      }
+      "properties": null
     }
   ]
 }

@@ -58,11 +58,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Djibouti",
-        "ISO_A3": "DJI",
-        "ISO_A2": "DJ"
-      }
+      "properties": null
     }
   ]
 }

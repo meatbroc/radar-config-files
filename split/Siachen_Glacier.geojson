@@ -26,11 +26,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Siachen Glacier",
-        "ISO_A3": "-99",
-        "ISO_A2": "-"
-      }
+      "properties": null
     }
   ]
 }

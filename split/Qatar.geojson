@@ -50,11 +50,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Qatar",
-        "ISO_A3": "QAT",
-        "ISO_A2": "QA"
-      }
+      "properties": null
     }
   ]
 }

@@ -86,11 +86,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Jordan",
-        "ISO_A3": "JOR",
-        "ISO_A2": "JO"
-      }
+      "properties": null
     }
   ]
 }

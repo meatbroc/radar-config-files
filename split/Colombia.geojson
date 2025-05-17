@@ -430,11 +430,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Colombia",
-        "ISO_A3": "COL",
-        "ISO_A2": "CO"
-      }
+      "properties": null
     }
   ]
 }

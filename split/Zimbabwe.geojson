@@ -178,11 +178,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Zimbabwe",
-        "ISO_A3": "ZWE",
-        "ISO_A2": "ZW"
-      }
+      "properties": null
     }
   ]
 }

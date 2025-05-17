@@ -488,11 +488,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Norway",
-        "ISO_A3": "NOR",
-        "ISO_A2": "NO"
-      }
+      "properties": null
     }
   ]
 }

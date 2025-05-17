@@ -102,11 +102,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Georgia",
-        "ISO_A3": "GEO",
-        "ISO_A2": "GE"
-      }
+      "properties": null
     }
   ]
 }

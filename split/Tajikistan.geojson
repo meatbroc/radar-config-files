@@ -206,11 +206,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Tajikistan",
-        "ISO_A3": "TJK",
-        "ISO_A2": "TJ"
-      }
+      "properties": null
     }
   ]
 }

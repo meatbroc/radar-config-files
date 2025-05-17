@@ -106,11 +106,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Serbia",
-        "ISO_A3": "SRB",
-        "ISO_A2": "RS"
-      }
+      "properties": null
     }
   ]
 }

@@ -302,11 +302,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Saudi Arabia",
-        "ISO_A3": "SAU",
-        "ISO_A2": "SA"
-      }
+      "properties": null
     }
   ]
 }

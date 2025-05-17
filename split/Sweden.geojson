@@ -292,11 +292,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Sweden",
-        "ISO_A3": "SWE",
-        "ISO_A2": "SE"
-      }
+      "properties": null
     }
   ]
 }

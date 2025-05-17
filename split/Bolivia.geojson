@@ -314,11 +314,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Bolivia",
-        "ISO_A3": "BOL",
-        "ISO_A2": "BO"
-      }
+      "properties": null
     }
   ]
 }

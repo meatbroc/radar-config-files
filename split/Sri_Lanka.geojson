@@ -66,11 +66,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Sri Lanka",
-        "ISO_A3": "LKA",
-        "ISO_A2": "LK"
-      }
+      "properties": null
     }
   ]
 }

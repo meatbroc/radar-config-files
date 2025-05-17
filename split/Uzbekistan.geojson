@@ -302,11 +302,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Uzbekistan",
-        "ISO_A3": "UZB",
-        "ISO_A2": "UZ"
-      }
+      "properties": null
     }
   ]
 }

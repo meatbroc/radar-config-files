@@ -422,11 +422,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Iran",
-        "ISO_A3": "IRN",
-        "ISO_A2": "IR"
-      }
+      "properties": null
     }
   ]
 }

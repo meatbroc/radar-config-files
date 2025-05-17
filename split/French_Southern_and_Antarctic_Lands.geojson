@@ -38,11 +38,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "French Southern and Antarctic Lands",
-        "ISO_A3": "ATF",
-        "ISO_A2": "TF"
-      }
+      "properties": null
     }
   ]
 }

@@ -82,11 +82,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Belgium",
-        "ISO_A3": "BEL",
-        "ISO_A2": "BE"
-      }
+      "properties": null
     }
   ]
 }

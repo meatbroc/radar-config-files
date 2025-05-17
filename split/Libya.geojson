@@ -270,11 +270,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Libya",
-        "ISO_A3": "LBY",
-        "ISO_A2": "LY"
-      }
+      "properties": null
     }
   ]
 }

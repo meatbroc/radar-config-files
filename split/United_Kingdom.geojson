@@ -272,11 +272,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "United Kingdom",
-        "ISO_A3": "GBR",
-        "ISO_A2": "GB"
-      }
+      "properties": null
     }
   ]
 }

@@ -672,11 +672,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Kazakhstan",
-        "ISO_A3": "KAZ",
-        "ISO_A2": "KZ"
-      }
+      "properties": null
     }
   ]
 }

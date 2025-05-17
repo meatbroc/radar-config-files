@@ -38,11 +38,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Puerto Rico",
-        "ISO_A3": "PRI",
-        "ISO_A2": "PR"
-      }
+      "properties": null
     }
   ]
 }

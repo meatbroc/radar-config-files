@@ -62,11 +62,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Rwanda",
-        "ISO_A3": "RWA",
-        "ISO_A2": "RW"
-      }
+      "properties": null
     }
   ]
 }

@@ -110,11 +110,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Costa Rica",
-        "ISO_A3": "CRI",
-        "ISO_A2": "CR"
-      }
+      "properties": null
     }
   ]
 }

@@ -98,11 +98,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Liberia",
-        "ISO_A3": "LBR",
-        "ISO_A2": "LR"
-      }
+      "properties": null
     }
   ]
 }

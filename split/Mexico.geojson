@@ -646,11 +646,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Mexico",
-        "ISO_A3": "MEX",
-        "ISO_A2": "MX"
-      }
+      "properties": null
     }
   ]
 }

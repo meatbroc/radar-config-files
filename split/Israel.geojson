@@ -78,11 +78,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Israel",
-        "ISO_A3": "ISR",
-        "ISO_A2": "IL"
-      }
+      "properties": null
     }
   ]
 }

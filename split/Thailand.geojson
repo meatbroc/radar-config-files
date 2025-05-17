@@ -394,11 +394,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Thailand",
-        "ISO_A3": "THA",
-        "ISO_A2": "TH"
-      }
+      "properties": null
     }
   ]
 }

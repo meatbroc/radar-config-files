@@ -114,11 +114,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "United Arab Emirates",
-        "ISO_A3": "ARE",
-        "ISO_A2": "AE"
-      }
+      "properties": null
     }
   ]
 }

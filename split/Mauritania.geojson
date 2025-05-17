@@ -206,11 +206,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Mauritania",
-        "ISO_A3": "MRT",
-        "ISO_A2": "MR"
-      }
+      "properties": null
     }
   ]
 }

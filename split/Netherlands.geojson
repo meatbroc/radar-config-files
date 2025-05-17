@@ -96,11 +96,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Netherlands",
-        "ISO_A3": "NLD",
-        "ISO_A2": "NL"
-      }
+      "properties": null
     }
   ]
 }

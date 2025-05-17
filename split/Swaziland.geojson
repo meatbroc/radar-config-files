@@ -50,11 +50,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Swaziland",
-        "ISO_A3": "SWZ",
-        "ISO_A2": "SZ"
-      }
+      "properties": null
     }
   ]
 }

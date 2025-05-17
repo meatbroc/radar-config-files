@@ -136,11 +136,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Solomon Islands",
-        "ISO_A3": "SLB",
-        "ISO_A2": "SB"
-      }
+      "properties": null
     }
   ]
 }

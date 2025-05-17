@@ -114,11 +114,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Portugal",
-        "ISO_A3": "PRT",
-        "ISO_A2": "PT"
-      }
+      "properties": null
     }
   ]
 }

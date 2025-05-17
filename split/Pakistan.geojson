@@ -402,11 +402,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Pakistan",
-        "ISO_A3": "PAK",
-        "ISO_A2": "PK"
-      }
+      "properties": null
     }
   ]
 }

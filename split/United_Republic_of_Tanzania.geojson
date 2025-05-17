@@ -262,11 +262,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "United Republic of Tanzania",
-        "ISO_A3": "TZA",
-        "ISO_A2": "TZ"
-      }
+      "properties": null
     }
   ]
 }

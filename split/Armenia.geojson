@@ -74,11 +74,7 @@
           ]
         ]
       },
-      "properties": {
-        "ADMIN": "Armenia",
-        "ISO_A3": "ARM",
-        "ISO_A2": "AM"
-      }
+      "properties": null
     }
   ]
 }
