@@ -54,7 +54,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Belize",
+        "ISO_A3": "BLZ",
+        "ISO_A2": "BZ"
+      }
     }
   ]
 }

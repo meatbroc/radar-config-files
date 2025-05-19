@@ -330,7 +330,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Algeria",
+        "ISO_A3": "DZA",
+        "ISO_A2": "DZ"
+      }
     }
   ]
 }

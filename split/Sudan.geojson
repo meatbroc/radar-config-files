@@ -338,7 +338,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Sudan",
+        "ISO_A3": "SDN",
+        "ISO_A2": "SD"
+      }
     }
   ]
 }

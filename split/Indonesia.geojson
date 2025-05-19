@@ -1992,7 +1992,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Indonesia",
+        "ISO_A3": "IDN",
+        "ISO_A2": "ID"
+      }
     }
   ]
 }

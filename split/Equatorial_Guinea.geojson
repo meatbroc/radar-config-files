@@ -60,7 +60,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Equatorial Guinea",
+        "ISO_A3": "GNQ",
+        "ISO_A2": "GQ"
+      }
     }
   ]
 }

@@ -254,7 +254,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Chad",
+        "ISO_A3": "TCD",
+        "ISO_A2": "TD"
+      }
     }
   ]
 }

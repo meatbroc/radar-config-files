@@ -70,7 +70,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Albania",
+        "ISO_A3": "ALB",
+        "ISO_A2": "AL"
+      }
     }
   ]
 }

@@ -50,7 +50,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Kosovo",
+        "ISO_A3": "-99",
+        "ISO_A2": "-"
+      }
     }
   ]
 }

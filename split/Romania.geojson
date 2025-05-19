@@ -154,7 +154,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Romania",
+        "ISO_A3": "ROU",
+        "ISO_A2": "RO"
+      }
     }
   ]
 }

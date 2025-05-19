@@ -362,7 +362,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Mozambique",
+        "ISO_A3": "MOZ",
+        "ISO_A2": "MZ"
+      }
     }
   ]
 }

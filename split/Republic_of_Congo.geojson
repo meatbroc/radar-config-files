@@ -258,7 +258,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Republic of Congo",
+        "ISO_A3": "COG",
+        "ISO_A2": "CG"
+      }
     }
   ]
 }

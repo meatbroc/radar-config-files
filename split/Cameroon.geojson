@@ -254,7 +254,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Cameroon",
+        "ISO_A3": "CMR",
+        "ISO_A2": "CM"
+      }
     }
   ]
 }

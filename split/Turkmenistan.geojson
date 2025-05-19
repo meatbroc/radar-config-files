@@ -274,7 +274,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Turkmenistan",
+        "ISO_A3": "TKM",
+        "ISO_A2": "TM"
+      }
     }
   ]
 }

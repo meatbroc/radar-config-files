@@ -170,7 +170,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Iraq",
+        "ISO_A3": "IRQ",
+        "ISO_A2": "IQ"
+      }
     }
   ]
 }

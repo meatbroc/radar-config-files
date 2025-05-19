@@ -54,7 +54,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Gambia",
+        "ISO_A3": "GMB",
+        "ISO_A2": "GM"
+      }
     }
   ]
 }

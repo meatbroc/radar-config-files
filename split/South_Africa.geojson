@@ -392,7 +392,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "South Africa",
+        "ISO_A3": "ZAF",
+        "ISO_A2": "ZA"
+      }
     }
   ]
 }

@@ -58,7 +58,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Lesotho",
+        "ISO_A3": "LSO",
+        "ISO_A2": "LS"
+      }
     }
   ]
 }

@@ -30,7 +30,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "The Bahamas",
+        "ISO_A3": "BHS",
+        "ISO_A2": "BS"
+      }
     }
   ]
 }

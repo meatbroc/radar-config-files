@@ -322,7 +322,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Mali",
+        "ISO_A3": "MLI",
+        "ISO_A2": "ML"
+      }
     }
   ]
 }

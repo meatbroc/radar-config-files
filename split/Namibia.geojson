@@ -226,7 +226,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Namibia",
+        "ISO_A3": "NAM",
+        "ISO_A2": "NA"
+      }
     }
   ]
 }

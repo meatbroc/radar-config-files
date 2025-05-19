@@ -46,7 +46,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Northern Cyprus",
+        "ISO_A3": "-99",
+        "ISO_A2": "-"
+      }
     }
   ]
 }

@@ -282,7 +282,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Zambia",
+        "ISO_A3": "ZMB",
+        "ISO_A2": "ZM"
+      }
     }
   ]
 }

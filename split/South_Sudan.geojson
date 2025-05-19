@@ -282,7 +282,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "South Sudan",
+        "ISO_A3": "SSD",
+        "ISO_A2": "SS"
+      }
     }
   ]
 }

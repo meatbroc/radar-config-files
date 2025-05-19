@@ -744,7 +744,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Greenland",
+        "ISO_A3": "GRL",
+        "ISO_A2": "GL"
+      }
     }
   ]
 }

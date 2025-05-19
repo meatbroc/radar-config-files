@@ -270,7 +270,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Nigeria",
+        "ISO_A3": "NGA",
+        "ISO_A2": "NG"
+      }
     }
   ]
 }

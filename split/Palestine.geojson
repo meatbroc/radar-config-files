@@ -52,7 +52,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Palestine",
+        "ISO_A3": "PSE",
+        "ISO_A2": "PS"
+      }
     }
   ]
 }

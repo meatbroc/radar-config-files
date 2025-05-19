@@ -38,7 +38,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Baykonur Cosmodrome",
+        "ISO_A3": "-99",
+        "ISO_A2": "-"
+      }
     }
   ]
 }

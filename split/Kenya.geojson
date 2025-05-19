@@ -182,7 +182,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Kenya",
+        "ISO_A3": "KEN",
+        "ISO_A2": "KE"
+      }
     }
   ]
 }

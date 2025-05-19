@@ -254,7 +254,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Laos",
+        "ISO_A3": "LAO",
+        "ISO_A2": "LA"
+      }
     }
   ]
 }

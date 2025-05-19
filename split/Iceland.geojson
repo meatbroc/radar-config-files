@@ -126,7 +126,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Iceland",
+        "ISO_A3": "ISL",
+        "ISO_A2": "IS"
+      }
     }
   ]
 }

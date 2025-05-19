@@ -62,7 +62,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Macedonia",
+        "ISO_A3": "MKD",
+        "ISO_A2": "MK"
+      }
     }
   ]
 }

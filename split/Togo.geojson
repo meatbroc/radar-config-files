@@ -82,7 +82,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Togo",
+        "ISO_A3": "TGO",
+        "ISO_A2": "TG"
+      }
     }
   ]
 }

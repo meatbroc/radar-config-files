@@ -218,7 +218,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Egypt",
+        "ISO_A3": "EGY",
+        "ISO_A2": "EG"
+      }
     }
   ]
 }

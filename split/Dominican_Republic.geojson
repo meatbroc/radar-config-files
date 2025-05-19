@@ -90,7 +90,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Dominican Republic",
+        "ISO_A3": "DOM",
+        "ISO_A2": "DO"
+      }
     }
   ]
 }

@@ -88,7 +88,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Cyprus No Mans Area",
+        "ISO_A3": "-99",
+        "ISO_A2": "-"
+      }
     }
   ]
 }

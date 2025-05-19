@@ -70,7 +70,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Guinea Bissau",
+        "ISO_A3": "GNB",
+        "ISO_A2": "GW"
+      }
     }
   ]
 }

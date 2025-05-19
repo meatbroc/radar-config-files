@@ -344,7 +344,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Malaysia",
+        "ISO_A3": "MYS",
+        "ISO_A2": "MY"
+      }
     }
   ]
 }

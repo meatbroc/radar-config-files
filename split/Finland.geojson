@@ -206,7 +206,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Finland",
+        "ISO_A3": "FIN",
+        "ISO_A2": "FI"
+      }
     }
   ]
 }

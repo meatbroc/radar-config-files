@@ -158,7 +158,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Malawi",
+        "ISO_A3": "MWI",
+        "ISO_A2": "MW"
+      }
     }
   ]
 }

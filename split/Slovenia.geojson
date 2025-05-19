@@ -58,7 +58,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Slovenia",
+        "ISO_A3": "SVN",
+        "ISO_A2": "SI"
+      }
     }
   ]
 }

@@ -88,7 +88,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Fiji",
+        "ISO_A3": "FJI",
+        "ISO_A2": "FJ"
+      }
     }
   ]
 }

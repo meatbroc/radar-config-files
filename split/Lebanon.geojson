@@ -50,7 +50,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Lebanon",
+        "ISO_A3": "LBN",
+        "ISO_A2": "LB"
+      }
     }
   ]
 }

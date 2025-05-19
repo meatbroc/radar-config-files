@@ -1104,7 +1104,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Australia",
+        "ISO_A3": "AUS",
+        "ISO_A2": "AU"
+      }
     }
   ]
 }

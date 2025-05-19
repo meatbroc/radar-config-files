@@ -58,7 +58,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "El Salvador",
+        "ISO_A3": "SLV",
+        "ISO_A2": "SV"
+      }
     }
   ]
 }

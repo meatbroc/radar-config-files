@@ -182,7 +182,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Kyrgyzstan",
+        "ISO_A3": "KGZ",
+        "ISO_A2": "KG"
+      }
     }
   ]
 }

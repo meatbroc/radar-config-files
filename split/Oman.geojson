@@ -180,7 +180,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Oman",
+        "ISO_A3": "OMN",
+        "ISO_A2": "OM"
+      }
     }
   ]
 }

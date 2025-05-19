@@ -190,7 +190,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Guinea",
+        "ISO_A3": "GIN",
+        "ISO_A2": "GN"
+      }
     }
   ]
 }

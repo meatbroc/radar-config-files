@@ -158,7 +158,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Somalia",
+        "ISO_A3": "SOM",
+        "ISO_A2": "SO"
+      }
     }
   ]
 }

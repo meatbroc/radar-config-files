@@ -82,7 +82,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Bosnia and Herzegovina",
+        "ISO_A3": "BIH",
+        "ISO_A2": "BA"
+      }
     }
   ]
 }

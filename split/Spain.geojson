@@ -272,7 +272,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Spain",
+        "ISO_A3": "ESP",
+        "ISO_A2": "ES"
+      }
     }
   ]
 }

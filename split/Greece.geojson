@@ -224,7 +224,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Greece",
+        "ISO_A3": "GRC",
+        "ISO_A2": "GR"
+      }
     }
   ]
 }

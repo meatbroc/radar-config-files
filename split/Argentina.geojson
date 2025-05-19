@@ -716,7 +716,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Argentina",
+        "ISO_A3": "ARG",
+        "ISO_A2": "AR"
+      }
     }
   ]
 }

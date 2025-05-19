@@ -892,7 +892,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "India",
+        "ISO_A3": "IND",
+        "ISO_A2": "IN"
+      }
     }
   ]
 }

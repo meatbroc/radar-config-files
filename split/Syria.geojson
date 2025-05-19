@@ -142,7 +142,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Syria",
+        "ISO_A3": "SYR",
+        "ISO_A2": "SY"
+      }
     }
   ]
 }

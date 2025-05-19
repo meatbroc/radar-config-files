@@ -524,7 +524,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Japan",
+        "ISO_A3": "JPN",
+        "ISO_A2": "JP"
+      }
     }
   ]
 }

@@ -1760,7 +1760,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "United States of America",
+        "ISO_A3": "USA",
+        "ISO_A2": "US"
+      }
     }
   ]
 }

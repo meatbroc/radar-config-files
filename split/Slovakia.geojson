@@ -98,7 +98,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Slovakia",
+        "ISO_A3": "SVK",
+        "ISO_A2": "SK"
+      }
     }
   ]
 }

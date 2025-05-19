@@ -170,7 +170,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Panama",
+        "ISO_A3": "PAN",
+        "ISO_A2": "PA"
+      }
     }
   ]
 }

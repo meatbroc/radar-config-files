@@ -1180,7 +1180,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Brazil",
+        "ISO_A3": "BRA",
+        "ISO_A2": "BR"
+      }
     }
   ]
 }

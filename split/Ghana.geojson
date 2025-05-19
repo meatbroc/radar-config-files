@@ -126,7 +126,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Ghana",
+        "ISO_A3": "GHA",
+        "ISO_A2": "GH"
+      }
     }
   ]
 }

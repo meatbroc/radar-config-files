@@ -394,7 +394,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Mongolia",
+        "ISO_A3": "MNG",
+        "ISO_A2": "MN"
+      }
     }
   ]
 }

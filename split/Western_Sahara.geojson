@@ -134,7 +134,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Western Sahara",
+        "ISO_A3": "ESH",
+        "ISO_A2": "EH"
+      }
     }
   ]
 }

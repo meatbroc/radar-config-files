@@ -94,7 +94,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Latvia",
+        "ISO_A3": "LVA",
+        "ISO_A2": "LV"
+      }
     }
   ]
 }

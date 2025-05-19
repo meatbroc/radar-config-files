@@ -46,7 +46,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Jamaica",
+        "ISO_A3": "JAM",
+        "ISO_A2": "JM"
+      }
     }
   ]
 }

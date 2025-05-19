@@ -130,7 +130,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Tunisia",
+        "ISO_A3": "TUN",
+        "ISO_A2": "TN"
+      }
     }
   ]
 }

@@ -50,7 +50,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Kuwait",
+        "ISO_A3": "KWT",
+        "ISO_A2": "KW"
+      }
     }
   ]
 }

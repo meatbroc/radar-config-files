@@ -414,7 +414,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Peru",
+        "ISO_A3": "PER",
+        "ISO_A2": "PE"
+      }
     }
   ]
 }

@@ -70,7 +70,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Estonia",
+        "ISO_A3": "EST",
+        "ISO_A2": "EE"
+      }
     }
   ]
 }

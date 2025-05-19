@@ -30,7 +30,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Luxembourg",
+        "ISO_A3": "LUX",
+        "ISO_A2": "LU"
+      }
     }
   ]
 }

@@ -130,7 +130,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Uganda",
+        "ISO_A3": "UGA",
+        "ISO_A2": "UG"
+      }
     }
   ]
 }

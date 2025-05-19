@@ -82,7 +82,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Switzerland",
+        "ISO_A3": "CHE",
+        "ISO_A2": "CH"
+      }
     }
   ]
 }

@@ -246,7 +246,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Niger",
+        "ISO_A3": "NER",
+        "ISO_A2": "NE"
+      }
     }
   ]
 }

@@ -134,7 +134,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Bulgaria",
+        "ISO_A3": "BGR",
+        "ISO_A2": "BG"
+      }
     }
   ]
 }

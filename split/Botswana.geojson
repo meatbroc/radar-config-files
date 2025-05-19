@@ -182,7 +182,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Botswana",
+        "ISO_A3": "BWA",
+        "ISO_A2": "BW"
+      }
     }
   ]
 }

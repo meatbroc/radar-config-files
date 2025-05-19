@@ -364,7 +364,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Italy",
+        "ISO_A3": "ITA",
+        "ISO_A2": "IT"
+      }
     }
   ]
 }

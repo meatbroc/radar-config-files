@@ -174,7 +174,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Gabon",
+        "ISO_A3": "GAB",
+        "ISO_A2": "GA"
+      }
     }
   ]
 }

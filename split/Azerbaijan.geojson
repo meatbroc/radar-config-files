@@ -160,7 +160,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Azerbaijan",
+        "ISO_A3": "AZE",
+        "ISO_A2": "AZ"
+      }
     }
   ]
 }

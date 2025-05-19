@@ -292,7 +292,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "New Zealand",
+        "ISO_A3": "NZL",
+        "ISO_A2": "NZ"
+      }
     }
   ]
 }

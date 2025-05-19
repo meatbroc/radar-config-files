@@ -124,7 +124,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Denmark",
+        "ISO_A3": "DNK",
+        "ISO_A2": "DK"
+      }
     }
   ]
 }

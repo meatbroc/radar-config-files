@@ -394,7 +394,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Myanmar",
+        "ISO_A3": "MMR",
+        "ISO_A2": "MM"
+      }
     }
   ]
 }

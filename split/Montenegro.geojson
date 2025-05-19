@@ -50,7 +50,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Montenegro",
+        "ISO_A3": "MNE",
+        "ISO_A2": "ME"
+      }
     }
   ]
 }

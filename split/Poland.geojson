@@ -170,7 +170,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Poland",
+        "ISO_A3": "POL",
+        "ISO_A2": "PL"
+      }
     }
   ]
 }

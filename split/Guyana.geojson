@@ -174,7 +174,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Guyana",
+        "ISO_A3": "GUY",
+        "ISO_A2": "GY"
+      }
     }
   ]
 }

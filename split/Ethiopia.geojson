@@ -254,7 +254,11 @@
           ]
         ]
       },
-      "properties": null
+      "properties": {
+        "ADMIN": "Ethiopia",
+        "ISO_A3": "ETH",
+        "ISO_A2": "ET"
+      }
     }
   ]
 }
